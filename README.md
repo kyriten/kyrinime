@@ -1,6 +1,6 @@
 # kyrinime
 
-A new Flutter project.
+My Watch List Anime.
 
 ## Getting Started
 
